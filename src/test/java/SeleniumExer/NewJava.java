@@ -4,7 +4,7 @@ public class NewJava {
 
 	public static void main(String[] args) {
 		
-		System.out.println("hello python");
+		System.out.println("hello python now hello java");
 
 	}
 
